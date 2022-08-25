@@ -1,0 +1,61 @@
+#container,#btn{
+    width:193px;
+    display:flex;
+    flex-wrap:wrap;
+    border:1.5px solid black;   
+    align-items:center;
+}
+
+#btn{
+    pointer-events: none;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;/* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+
+.span_btn {
+    width: 56.5px;
+    height: 56.5px;
+    text-align: center;
+    margin:2px;
+    pointer-events:painted;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
+}
+
+
+.span_btn2{
+    text-align: center;
+}
+
+.span_btn3{
+    text-align: center;
+}    
+
+
+.span_btn1{
+    width: 56.5px;
+    height: 56.5px;
+}    
+
+h1{
+    width:190px;
+    height:40px;
+    margin:3px;
+    border:1.5px solid black; 
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none;
+}
